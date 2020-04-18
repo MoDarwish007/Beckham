@@ -1,0 +1,53 @@
+body {
+  background-color: #ffe75e;
+  text-align: center;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+}
+h3 {
+  font-family: 'Sacramento', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+}
+hr {
+  border: dotted black 4px;
+  border-bottom: none;
+  width: 4%;
+}
+
+p {
+  line-height: 2;
+}
+.about {
+  width: 30%;
+  margin: auto;
+}
+.fp {
+  position: absolute;
+  left: 350px;
+  float: left;
+  margin-right: 100px;
+}
+.hob {
+  text-align: left;
+  position: absolute;
+  right: 450px;
+  bottom: 10px;
+  float: right;
+  margin-left: 30px;
+}
+
+
+a {
+  font-family:'Sacramento', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+  color: #000839;
+  text-decoration: none;
+}
+
+
+.classname:active {
+	position:relative;
+	top:1px;
+}
